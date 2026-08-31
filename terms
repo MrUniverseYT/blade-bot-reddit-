@@ -1,0 +1,42 @@
+Blade Bot Terms & Conditions
+
+Last updated: August 30, 2026
+
+Blade Bot is a Reddit application designed to notify a Discord server when new posts are submitted to supported Reddit communities.
+
+By installing or using Blade Bot, you agree to these terms.
+
+1. Purpose
+
+Blade Bot monitors Reddit post submission events through Reddit's Developer Platform (Devvit). When a new post is submitted, Blade Bot may send information about that post to a configured Discord webhook for the purpose of creating a notification.
+
+2. Reddit Content
+
+Blade Bot may process information associated with Reddit posts, including:
+
+- Post title
+- Post URL
+- Reddit username of the post author
+- Post text
+- Post image URL
+- Post creation time
+
+Blade Bot does not claim ownership of Reddit posts or other user-created content.
+
+3. Discord
+
+Blade Bot uses Discord webhooks to send post notifications to Discord.
+
+Use of Discord is also subject to Discord's own terms and policies.
+
+4. Availability
+
+Blade Bot is provided on an "as is" basis. There is no guarantee that the application will always be available, error-free, or compatible with future changes to Reddit or Discord.
+
+5. Changes
+
+These terms may be updated if Blade Bot's functionality changes.
+
+6. Contact
+
+Questions regarding Blade Bot can be directed to the application's developer through Reddit.
