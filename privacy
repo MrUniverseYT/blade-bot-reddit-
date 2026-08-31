@@ -1,0 +1,68 @@
+Blade Bot Privacy Policy
+
+Last updated: August 30, 2026
+
+This Privacy Policy describes how Blade Bot processes information.
+
+1. Information Processed
+
+When a new Reddit post is submitted in a community where Blade Bot is installed, Blade Bot may process:
+
+- Reddit username of the post author
+- Post title
+- Post text
+- Post URL
+- Image or media URL associated with the post
+- Post ID
+- Post creation time
+
+This information originates from Reddit through Reddit's Developer Platform.
+
+2. How Information Is Used
+
+The information is used solely to create notifications about new Reddit posts in a configured Discord server.
+
+Blade Bot does not use Reddit information for advertising, profiling, machine learning, or selling user information.
+
+3. Information Shared With Discord
+
+Blade Bot uses Discord webhooks.
+
+To create a Discord notification, Blade Bot may send the following information to Discord:
+
+- Reddit username
+- Post title
+- Post text
+- Post URL
+- Image or media URL
+- Post timestamp
+
+This information is sent only for the purpose of displaying the Reddit post notification in Discord.
+
+4. Data Storage
+
+Blade Bot does not maintain a separate database of Reddit post content.
+
+Post information is processed when a Reddit event occurs and is forwarded to Discord.
+
+Discord may retain messages sent through the webhook according to Discord's own policies and the settings of the Discord server.
+
+5. Personal Information
+
+Blade Bot does not intentionally collect private Reddit account information, passwords, email addresses, IP addresses, or other non-public personal information.
+
+It only processes information supplied to the application through Reddit's Developer Platform for its stated functionality.
+
+6. Data Deletion
+
+Blade Bot does not independently store Reddit post data.
+
+Copies of notifications sent to Discord may remain in the destination Discord server until they are deleted there.
+
+7. Changes
+
+This Privacy Policy may be updated if Blade Bot's functionality or data practices change.
+
+8. Contact
+
+Questions about this Privacy Policy can be directed to the application's developer through Reddit.
